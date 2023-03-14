@@ -1,1 +1,13 @@
 /* Your CSS goes here */
+*{
+    
+        font-family: `Arial`, `Arial bold`, `Arial Black`;
+        background:#e6834c;
+     
+ }
+ .header h2{
+    color: #454f6f;
+ }
+.footer {
+    color: #454f6f;
+}
